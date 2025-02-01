@@ -1,0 +1,48 @@
+1. For Loop
+2. For EachLoop
+Array -
+While Loop
+initialization
+   Condition
+   Operation
+   Increment or decrement
+ Do-While
+   initialization
+   operation
+   increment/drcrement
+   Condition
+Jump Statement:
+   - Break
+   - Continue
+
+Array:
+Types of an Array:
+1. Single Dimensional
+
+2. Multidimensional
+
+OOP - Object Oriented Programming
+OOP - Object Oriented Programming is methodlogy or paradigm to design software based on object and classes
+OOP - Simplifies software development by providing some concepts in as follow:
+    - Object
+    - classes
+    - Inheritance
+    - Polymorphisn
+    - Abstraction
+    - Encapsulation
+
+Object - A real world entity i.e. chair, table,pen,watch,computer etc
+Class - is a group of objects which has similar property
+      - is a logical entity
+      - Data Members: variable
+      - Methods - Method
+Java is Typed language
+
+
+
+
+Java Variables:
+ - Local
+ - Instance
+ - Static
+
