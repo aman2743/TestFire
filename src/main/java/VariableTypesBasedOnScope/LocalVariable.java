@@ -2,7 +2,7 @@ package VariableTypesBasedOnScope;
 
 class Test{
     public void method1(){
-        int x=20;//local Variable
+      int x=20;//local Variable
         System.out.println("Value of x="+x);
     }
     public void method2(){
