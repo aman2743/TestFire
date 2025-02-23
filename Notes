@@ -46,3 +46,20 @@ Java Variables:
  - Instance
  - Static
 
+String In Java:
+ Memory Based Analysis
+ - Static (Stack)
+   - When program is compiled memory is allocated
+   - stack object can run very fast
+
+ - Dynamic (RAM) (Heap)
+  - memory allocation happens at run time
+  - Accessing the object in heap takes more time
+How to define String in Java?
+ By Using String Literal
+ By Using New Keyword
+
+ Methods in String:
+
+
+
