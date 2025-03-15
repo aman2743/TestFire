@@ -61,5 +61,30 @@ How to define String in Java?
 
  Methods in String:
 
+OOPS: Object Oriented Programmings
+
+Pillars of OOPS Based on below criteria:
+   1. Code re-usability
+     a. Inheritance
+       How to adopt inheritance in Java
+         Using extends keyword
+     b. Polymorphism
+
+  2. Security
+     a. Abstraction
+     b. Encapsulation
+
+Polymorphism:
+Multiple Form
+How to achieve Polymorphism in Java?
+ 1. Method Overloading
+     a. Define a method for Method Overloadin
+     b. By changing number of arguments
+     c. By Changing the data type of the arguments
+
+ 2. Method Overriding
+********************************************
+ 2. Security
+     a. Abstraction
 
 
