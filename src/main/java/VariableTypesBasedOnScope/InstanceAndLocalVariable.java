@@ -1,6 +1,8 @@
 package VariableTypesBasedOnScope;
 
 class TestNew{
+    int age;
+    double salary;
     public void m1(){
         int x=20;//local Variable
         System.out.println("Value of x="+x);

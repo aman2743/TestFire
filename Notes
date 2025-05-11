@@ -86,5 +86,35 @@ How to achieve Polymorphism in Java?
 ********************************************
  2. Security
      a. Abstraction
+       1. By creating Abstract class
+       2. By creating an Interface
+
+       Interface:
+        Interfaces are similar to Abstract Class but contains all abstract method.
+
+     b. Encapsulation
+      Encapsulation=Data Hiding + Abstraction
+      ******************************************
+      Keywords:
+      this
+       1. this keyword can be used to refer current class instance variable
+       2. this keyword can be used to invoke current class method
+       3. this keyword can be used to invoke current class constructor
+      super
+
+      final
+        variable
+        Method
+        Class
+       static
+       - static keyword in java is used for memory management only
+       - static can be variable,method,block,nested class
+       -
+
+       Methods to print exception information: There are 3 methods to print exception information at console.
+       - printStackTrace()
+       - toString()
+       - getMessage()
+
 
 

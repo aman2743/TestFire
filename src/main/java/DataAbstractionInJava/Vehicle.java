@@ -9,7 +9,7 @@ class car extends Vehicle1{
     int no_of_tyres=4;
     public void start(){
         System.out.println("Number of tyres="+no_of_tyres);
-        System.out.println("Car starts wit Key");
+        System.out.println("Car starts with Key");
     }
  }
 
